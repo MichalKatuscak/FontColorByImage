@@ -4,7 +4,7 @@
  * FontColorByImage
  * Get contrast font color based on image
  *
- * @author      Michal Katuscak (michal@katuscak.cz)
+ * @author		Michal Katuscak (michal@katuscak.cz)
  * @licence		Creative Commons BY-SA 3.0
  */
 
