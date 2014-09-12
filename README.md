@@ -3,7 +3,7 @@ FontColorByImage
 
 Get contrast font color based on image in PHP
 
-Usign:
+## Usign:
 
 ```php
 <?php
@@ -23,3 +23,10 @@ print_r($fontColor);
  * )
  */
 ```
+
+## Composer install
+
+```
+composer require katuscak/fontcolorbyimage dev-master
+```
+
