@@ -5,7 +5,7 @@ Get contrast font color based on image in PHP
 
 Usign:
 
-<?php
+`<?php
 
 include "FontColorByImage.class.php";
 
@@ -20,4 +20,4 @@ print_r($fontColor);
  * 	[g] => 123,
  * 	[b] => 255
  * )
- */
+ */`
