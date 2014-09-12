@@ -1,5 +1,5 @@
 {
-    "name": "Katuscak/FontColorByImage",
+    "name": "katuscak/fontcolorbyimage",
     "description": "Get contrast font color based on image",
     "require": {
         "php": ">=5.3.0"
