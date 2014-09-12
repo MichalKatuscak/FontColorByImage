@@ -30,7 +30,7 @@ print_r($fontColor);
 composer require katuscak/fontcolorbyimage dev-master
 ```
 
-### Usign width Composer
+### Usign with Composer
 
 Class will be loaded automatically with all others which have installed over Composer.
 
