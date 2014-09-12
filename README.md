@@ -8,7 +8,7 @@ Get contrast font color based on image in PHP
 ```php
 <?php
 
-include "FontColorByImage.class.php";
+require "FontColorByImage.class.php";
 
 $url = "http://yousize.com/yourimage.png";
 $fontColor = (new \Katuscak\FontColorByImage($url))->get();
@@ -36,6 +36,7 @@ Class will be loaded automatically with all others which have installed over Com
 
 ```php
 <?php
+
 require 'vendor/autoload.php';
 
 $url = "http://yousize.com/yourimage.png";
