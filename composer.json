@@ -16,6 +16,6 @@
         }
     ],
     "autoload": {
-        "psr-4": {"": ""}
+        "files": ["FontColorByImage.class.php"]
     }
 }
