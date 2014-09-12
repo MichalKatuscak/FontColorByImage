@@ -4,7 +4,7 @@
     "require": {
         "php": ">=5.3.0"
     },
-    "keywords": ["image","font","color"],
+    "keywords": ["font","color","image"],
     "homepage": "https://github.com/MichalKatuscak/FontColorByImage",
     "license": "Creative Commons BY-SA 3.0",
     "authors": [
